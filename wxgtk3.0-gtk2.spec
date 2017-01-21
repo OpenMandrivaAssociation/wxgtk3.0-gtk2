@@ -16,6 +16,7 @@ Patch1:		gst1.0.patch
 # however clang just hard codes a def to an old abi version, its not actually
 # a different abi
 Patch2:		wxWidgets-3.0.2-disable_abi_check.patch
+Patch3:		wxGTK3-3.0.2-stc-gcc6.patch
 BuildRequires:	bison
 BuildRequires:	flex
 BuildRequires:	jpeg-devel
