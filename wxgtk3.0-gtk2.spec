@@ -9,7 +9,7 @@ Version:	3.0.2
 Release:	9
 License:	wxWidgets Library Licence
 Group:		System/Libraries
-Url:		http://www.wxwidgets.org/
+Url:		https://www.wxwidgets.org/
 Source0:	http://prdownloads.sourceforge.net/wxwindows/%{oname}-%{version}.tar.bz2
 Patch1:		gst1.0.patch
 # abi check is useless as it reports different abi used between clang and gcc
